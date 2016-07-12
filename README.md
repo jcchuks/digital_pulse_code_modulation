@@ -1,4 +1,4 @@
-# digital_pulse_code_modulation
+# Near Loss DPCM
 Implementation of a Near lossless DPCM with analysis to JPEG
 
 In this analysis, A nearloss DPCM compression alone is benchmarked to JPEG in MATLAB (MATLAB implicitly uses Discrete Cosine Transform), 
