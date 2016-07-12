@@ -7,3 +7,7 @@ Hence it is not expected to have a greater compression ratio than JPEG.
 This analysis just shows the capability of DPCM, The trade off between compression ratio and signal to noise ratio, 
 variation as quantization is increased and uses JPEG as a benchmark.
 It is also lossy because quantization has been used.
+
+Algorithm implemented can be found at https://www.seas.gwu.edu/~ayoussef/papers/LossyDPCM-ISCA98 with slight modification.
+
+License Type: MIT
